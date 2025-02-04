@@ -1,4 +1,4 @@
-# 💫 Hi i am Lionel
+# 💫 Hi I am EL-Lion-AI, 
 I'm currently working on a simple AI Chatbot. <br>I'm looking to collaborate on simple project to improve my skills in Python programming <br>and Libraries. <br>Feel free to reach out about anything.<br>Fun fact is I love sport, Cinema, Anime, video games and Tech. 
 
 
